@@ -1,0 +1,10 @@
+header{position: relative; width: 100%; height: 100px; background-color: aliceblue;}
+header .header_wrap{}
+header .logo{position: absolute; top: 50%; transform: translateY(-50%); height: 43px; width: 150px; background: url(../img/logo.png) no-repeat;background-size: 100%; display: inline-block;}
+header .logo a{display: block; height: 100%;}
+header .logo a span{}
+
+header .header_wrap .gnb{}
+header .gnb > ul{}
+header .gnb > ul > li{}
+header .gnb > ul > li .depth1{}
